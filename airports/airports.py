@@ -11,8 +11,8 @@ def main():
     gmaps = googlemaps.Client(key=key)
     delim = ','
 
-    outfile = 'lat-lng2.csv'
-    if os.stat(outfile).st_size != 0:
+    outfile = 'lat-lng.csv'
+    if os.path.isfile(outfile) and os.stat(outfile).st_size != 0:
         overwrite = input(outfile + ' has data. Overwrite? [y/N] ')
         if overwrite == 'y':
             open(outfile, 'w').close()
