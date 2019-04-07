@@ -12,7 +12,6 @@ gmaps = googlemaps.Client(key=key)
 f = open('lat-lng.txt', 'w').close()
 
 def main():
-    count = 0
     with open('intl-airports.csv', 'r', newline='') as csvfile:
         spamreader = csv.reader(csvfile)
 
@@ -22,10 +21,8 @@ def main():
             print(city + ", " + airport)
             # Geocoding an address
             geocode_result = gmaps.geocode(airport)
-            #print(geocode_result)
-            #print(type(geocode_result))
             y = geocode_result
-            #print(y[0])
+
             try:
                 lat = y[0]['geometry']['location']['lat']
                 lng = y[0]['geometry']['location']['lng']
@@ -37,6 +34,5 @@ def main():
                 pass
 
 
-
-
-main()
+if __name__ == '__main__':
+    main()
