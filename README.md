@@ -10,14 +10,16 @@ This python script queries the Google [Geocoding API](https://developers.google.
 # Quickstart
 
 ```sh
+python3 -m venv venv
+
 source venv/bin/activate
 
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 cp config-example.ini config.ini
 # change "myCoolKey" to your API key
 
-python airports.py
+python3 airports.py
 ```
 
 # Output/Results
