@@ -1,37 +1,46 @@
-import googlemaps
-from datetime import datetime
-import csv
 import configparser
-import json
+import csv
+import googlemaps
+import os
 
-config = configparser.ConfigParser()
-config.read('config.ini')
-key = config['DEFAULT']['key']
-
-gmaps = googlemaps.Client(key=key)
-f = open('lat-lng.txt', 'w').close()
 
 def main():
+    config = configparser.ConfigParser()
+    config.read('config.ini')
+    key = config['DEFAULT']['key']
+    gmaps = googlemaps.Client(key=key)
+    delim = ','
+
+    outfile = 'lat-lng2.csv'
+    if os.stat(outfile).st_size != 0:
+        overwrite = input(outfile + ' has data. Overwrite? [y/N] ')
+        if overwrite == 'y':
+            open(outfile, 'w').close()
+        else:
+            print("Ok, exiting now.")
+            os.sys.exit(0)
+
     with open('intl-airports.csv', 'r', newline='') as csvfile:
         spamreader = csv.reader(csvfile)
 
         for row in spamreader:
             city = row[0]
             airport = row[1]
-            print(city + ", " + airport)
+            print(city + delim + airport)
+
             # Geocoding an address
             geocode_result = gmaps.geocode(airport)
             y = geocode_result
 
-            try:
-                lat = y[0]['geometry']['location']['lat']
-                lng = y[0]['geometry']['location']['lng']
-                with open('lat-lng.txt', 'a') as latLng:
-                    latLng.write(airport + "," + str(lat) + "," + str(lng) + '\n')
-            except IndexError:
-                with open('lat-lng.txt', 'a') as latLng:
-                    latLng.write(airport + ",null" + '\n')
-                pass
+            with open(outfile, 'a') as latLng:
+                latLng.write(city + delim + airport + delim)
+                try:
+                    lat = y[0]['geometry']['location']['lat']
+                    lng = y[0]['geometry']['location']['lng']
+                    latLng.write(str(lat) + delim + str(lng) + '\n')
+                except IndexError:
+                    latLng.write('null' + delim + 'null' + '\n')
+                    pass
 
 
 if __name__ == '__main__':
