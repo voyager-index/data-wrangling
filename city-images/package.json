@@ -1,0 +1,17 @@
+{
+  "name": "city-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "city-fallback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^0.5.5",
+    "csv": "^5.1.1",
+    "csv-parser": "^2.3.0",
+    "node-fetch": "^2.6.0"
+  }
+}
