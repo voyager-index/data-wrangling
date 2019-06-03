@@ -1,0 +1,502 @@
+ID,City
+7280,Tokyo
+7281,Mumbai
+7271,Mexico City
+7279,Shanghai
+7286,São Paulo
+7265,New York
+7137,Karachi
+7258,Buenos Aires
+7190,Delhi
+7270,Moscow
+7267,Istanbul
+7217,Dhaka
+7278,Cairo
+7242,Seoul
+7284,Kolkata
+7274,Beijing
+7276,Jakarta
+7263,Los Angeles
+7266,London
+7255,Tehran
+7237,Lima
+7243,Manila
+7277,Bogota
+7248,Ōsaka
+7285,Rio de Janeiro
+7249,Kinshasa
+7136,Lahore
+7157,Guangzhou
+7251,Bangalore
+7228,Chicago
+7236,Bangkok
+7289,Hong Kong
+7201,Chennai
+7173,Wuhan
+7179,Tianjin
+7155,Chongqing
+7253,Baghdad
+7191,Hyderabad
+7282,Paris
+7262,Taipei
+7272,Lagos
+7257,Toronto
+7202,Ahmedabad
+7158,Dongguan
+7122,Ho Chi Minh City
+7268,Riyadh
+7105,Shenzhen
+7288,Singapore
+7220,Chittagong
+7177,Shenyeng
+7287,Sydney
+7225,Houston
+7247,Chengdu
+7139,St. Petersburg
+7165,Alexandria
+6651,Belo Horizonte
+7192,Pune
+5306,Yokohama
+7222,Rangoon
+7171,Xian
+7218,Luanda
+7123,Ankara
+7118,Philadelphia
+7205,Abidjan
+6387,Busan
+7186,Harbin
+7181,Nanjing
+7203,Surat
+7132,Khartoum
+3406,Hechi
+7126,Barcelona
+7245,Berlin
+7241,Casablanca
+7259,Kabul
+7142,Kano
+7207,Brasília
+7211,Salvador
+7213,Montréal
+7114,Dallas
+7199,Kanpur
+7226,Miami
+7210,Fortaleza
+7133,Jeddah
+4095,Haora
+7254,Addis Ababa
+7140,Guadalajara
+7121,Hanoi
+7144,Pyongyang
+7283,Santiago
+7275,Nairobi
+7184,Changchun
+7269,Cape Town
+6168,New Taipei
+7172,Taiyuan
+7198,Jaipur
+7145,Dar es Salaam
+7233,Madrid
+3032,Quezon City
+7239,Johannesburg
+7138,Durban
+6547,Nagoya
+5208,El Giza
+7219,Algiers
+7162,Medellín
+7208,Porto Alegre
+7160,Surabaya
+6527,Dalian
+6631,Lucknow
+7215,Recife
+4993,Faisalabad
+6176,Incheon
+7238,Dakar
+7116,Boston
+7119,Detroit
+7129,Damascus
+7227,Atlanta
+5054,Daegu
+6286,İzmir
+7264,"Washington, D.C."
+7182,Hangzhou
+7110,Phoenix
+3412,Zhangzhou
+7178,Jinan
+7244,Monterrey
+7154,Guiyang
+7229,Caracas
+7193,Nagpur
+7174,Changsha
+7176,Zhengzhou
+7197,Mashhad
+7209,Curitiba
+6322,Omdurman
+7152,Lanzhou
+6528,Qingdao
+7161,Guayaquil
+6431,Ibadan
+7163,Cali
+6524,Shijianzhuang
+7187,Sapporo
+7230,Kiev
+3661,Xiangtan
+6179,Nanchong
+7128,Aleppo
+7104,Kaohsiung
+6188,Jilin
+7261,Melbourne
+7150,Milan
+7180,Nanchang
+6533,Fukuoka
+7223,San Francisco
+7164,Havana
+7232,Tashkent
+7260,Vienna
+7159,Bandung
+7189,Accra
+7064,Baku
+7252,Athens
+7175,Kunming
+6474,Suzhou
+3439,Bekasi
+7111,San Diego
+7146,Medan
+6637,Indore
+7224,Denver
+7125,Sanaa
+6701,Campinas
+7156,Fuzhou
+7200,Patna
+7106,Zibo
+4999,Saidu
+7070,Santa Cruz
+7127,Bucharest
+6770,Taichung
+7246,Ürümqi
+7109,Seattle
+4994,Rawalpindi
+5002,Benoni
+7141,Puebla
+7206,Belém
+7166,Frankfurt
+6991,Beirut
+5209,Stuttgart
+3702,Shuyang
+7115,Maracaibo
+7167,Hamburg
+7195,Tel Aviv-Yafo
+5252,Tangshan
+6473,Hefei
+7143,Warsaw
+7076,Minsk
+7273,Rome
+6864,Rabat
+5182,Wanzhou
+7124,Budapest
+7131,Lisbon
+7003,Bhopal
+6186,Xuzhou
+6552,Sendai
+7012,Manaus
+6284,Birmingham
+6551,Kyoto
+5270,Taian
+6283,Douala
+7149,Naples
+6827,Port-au-Prince
+1853,Irvine
+6461,George Town
+6531,Wenzhou
+5222,Haikou
+6626,Ludhiana
+7214,Goiânia
+6938,Palembang
+7183,Hiroshima
+6204,Vadodara
+1362,Kalyan
+6997,Isfahan
+6804,Tunis
+6791,Valencia
+6820,Harare
+5260,Luoyang
+6942,Quito
+6178,Xiamen
+6936,Antananarivo
+5243,Luzhou
+6801,Pittsburgh
+5305,Kōbe
+3279,Katowice
+6496,Barranquilla
+6199,Agra
+6185,Suzhou
+6525,Handan
+7008,Conakry
+7107,Minneapolis
+7153,Nanning
+6853,Multan
+6493,Santiago
+5902,Kumasi
+6932,Shantou
+7066,Phnom Penh
+6899,Tijuana
+5228,Datong
+7256,Vancouver
+6385,Daejeon
+6175,Gujranwala
+7151,Kuala Lumpur
+6722,Khulna
+7090,San Juan
+5178,Liuzhou
+5267,Fushun
+6254,Baltimore
+6187,Wuxi
+6386,Gwangju
+6287,Bursa
+5881,Suining
+4046,Karaj
+6854,Hyderabad
+6526,Anshan
+6183,Yantai
+5258,Xinyang
+2678,Ad Damman
+5185,Luan
+6985,Bamako
+6565,Faridabad
+7085,Brisbane
+6829,Kampala
+6193,Nasik
+7216,Brussels
+7056,Córdoba
+1339,Kawasaki
+6182,Jinxi
+6789,San Antonio
+7134,Makkah
+5138,Ciudad Juárez
+6937,Semarang
+6269,Kharkiv
+6859,Pretoria
+3605,Mannheim
+7061,Yaounde
+7001,Asansol
+7005,Coimbatore
+6532,Ningbo
+7117,Tampa
+6169,Tainan
+6869,Maputo
+6174,Manchester
+6201,Meerut
+6888,Davao
+6625,Tabriz
+6427,León
+6819,Lusaka
+6972,Vishakhapatnam
+6276,Haiphong
+6778,San Jose
+6877,Yekaterinburg
+6198,Ghaziabad
+7168,Munich
+6940,Ujungpandang
+6963,Qiqihar
+6855,Peshawar
+7112,St. Louis
+7007,Brazzaville
+7235,Stockholm
+5176,Turin
+7000,Varanasi
+7231,Dubai
+6539,Hohhot
+4876,Long Beach
+6874,Nizhny Novgorod
+6290,Adana
+6998,Shiraz
+6931,Huainan
+7185,Baotou
+6604,Mosul
+3429,Maoming
+5274,Ganzhou
+6882,Novosibirsk
+7194,Tripoli
+6782,Portland
+7221,Perth
+7069,La Paz
+6434,Kaduna
+6205,Rajkot
+6529,Linyi
+3432,Cilacap
+6794,Cleveland
+6753,Mandalay
+6184,Zaozhuang
+1269,Essen
+6636,Jabalpur
+6999,Amritsar
+6780,Las Vegas
+5276,Changzhou
+6196,Allahabad
+5879,Xianyang
+6967,Lubumbashi
+6475,Zhanjiang
+6249,Indianapolis
+1995,Fort Lauderdale
+7004,Madurai
+6803,Lomé
+7045,Belgrade
+6181,Nanyang
+7063,Yerevan
+6582,Marseille
+7002,Bhilai
+6996,Almaty
+6700,Rosario
+6235,Ft. Worth
+6329,Doha
+6378,Omsk
+7204,København
+6557,Mbuji-Mayi
+908,Changwon
+7188,Santo Domingo
+4957,Suwon
+6192,Aurangabad
+6569,Kochi
+7170,Kuwait
+6110,Santos
+6924,Amman
+6566,Srinagar
+6992,Tbilisi
+3672,Baoding
+6779,Sacramento
+5317,Warangal
+6363,Rostov
+1007,Abbottabad
+7075,Sofia
+6516,Ankang
+5821,Zhuhai
+6429,Port Harcourt
+6370,Chelyabinsk
+3170,Toluca
+7147,Dublin
+6879,Kazan
+7025,Calgary
+5053,Ulsan
+6318,Medina
+6969,Guatemala
+6191,Sholapur
+5508,Vitória
+5444,Maracay
+6180,Neijiang
+6567,Vijayawada
+5433,Columbus
+1792,Zhongli
+6661,Maceió
+3420,Maanshan
+6878,Samara
+1550,Niterói
+5237,Changde
+7087,Ouagadougou
+4959,Leeds
+7083,Adelaide
+3724,Kitakyūshū
+6883,Mogadishu
+4794,Songnam
+7068,Huambo
+5877,Cologne
+6799,Milwaukee
+6863,Fez
+5884,Yichun
+6007,Natal
+7036,Ottawa
+5269,Weifang
+6171,San Bernardino
+6795,Cincinnati
+6876,Ufa
+5256,Shangqiu
+4900,Barquisimeto
+1307,Xinyi
+6628,Jodhpur
+6773,Jamshedpur
+6832,Seville
+6230,Kansas City
+5301,Mudangiang
+6324,The Hague
+5393,Oakland
+858,Sharjah
+6267,Dnipro
+6545,Daqing
+6941,Lyon
+6189,Chandigarh
+6633,Ranchi
+5429,Charlotte
+6277,Da Nang
+5609,Gaziantep
+6841,Asunción
+5229,Jianmen
+6455,Florence
+5975,Qom
+6203,Gwalior
+1153,Nezahualcoyotl
+6177,Benin City
+6665,Natal
+6522,Baoshan
+6910,Perm
+5266,Benxi
+913,Sheffield
+3699,Shangrao
+6842,Managua
+6237,Austin
+6621,Ahvaz
+5001,Kelang
+7100,Jerusalem
+7148,Monrovia
+6530,Huaiyin
+5183,Huaibei
+6929,Xining
+3603,Düsseldorf
+6246,Jacksonville
+4795,Goyang
+3222,Ikare
+6824,Tegucigalpa
+5231,Xiantao
+3662,Zigong
+6856,Kathmandu
+5234,Zhuzhou
+5619,Hims
+6519,Hengyang
+3761,Hamamatsu
+6946,Cartagena
+7322,Auckland
+7240,Amsterdam
+6471,Lupanshui
+7212,Edmonton
+6828,Glasgow
+6836,Dushanbe
+1267,Duisburg
+1305,Zhucheng
+3441,Bandar Lampung
+5249,Qinhuangdao
+6989,Banghazi
+6573,Mysore
+4912,Virginia Beach
+3210,Aba
+6268,Donetsk
+5255,Kaifeng
+6622,Basra
+6568,Thiruvananthapuram
+6920,Abuja
+4793,Puch'on
+5820,Xuanzhou
+6640,Tiruchirappalli
+5762,Cagayan de Oro
+5844,Bogor
+6865,Marrakesh
+1290,Yangquan
+5257,Pingdingshan
+6921,Padang
+6265,Odessa
+6862,Panama City
+1548,Nova Iguaçu
+1211,Az Zarqa
+1549,Duque de Caxias
+6571,Hubli
+6907,Mérida
+6934,Mombasa
+5885,Yancheng
+5000,Johor Bahru
+
